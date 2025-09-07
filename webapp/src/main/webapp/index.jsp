@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for training - Devops TechLab - auto trigger configure - test</h1>
+    <h1>New user Register for training - Devops TechLab - auto trigger configure</h1>
     <p>Deploy using Docker</p>
     <hr>
      
